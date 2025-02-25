@@ -1,7 +1,19 @@
-# Lab
+# Zatanna 🎭  
+**Bringing the magic of music to the fans!**  
 
-1.  Clone git repo: `git clone https://github.com/MahmoudJad/Back-end-Development-Capstone.git`
-2.  Get into the directory by `cd Back-end-Development-Capstone`
+## Description  
+Zatanna is a Django-based service responsible for handling the web app’s frontend and the concert page. It integrates with BlackBolt and Shutterstar to dynamically render songs and pictures while providing an engaging experience for fans.  
+
+## Features  
+- Beautiful and responsive UI for the band's web app.  
+- Dynamic rendering of songs and pictures.  
+- Concert page with event details, ticket links, and schedules.  
+
+
+# Installation 
+
+1.  Clone git repo: `git clone https://github.com/MahmoudJad/Zatanna.git`
+2.  Get into the directory by `cd Zatanna`
 3.  Get into Django code `cd djangoserver`
 4.  Install requirements `pip install -r requirements.txt`
 5.  Run the server `python manage.py runserver`
